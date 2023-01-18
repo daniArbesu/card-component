@@ -32,19 +32,12 @@ export const Description = styled.div`
   padding: 0px;
   gap: 8px;
   width: 320px;
-
-  /*width: 320px;
-  height: 96px;*/
 `;
 
 export const Heading = styled.h3`
   font-weight: 600;
   font-size: 18px;
   line-height: 22px;
-  /* identical to box height */
-
-  /*letter-spacing: 1px;*/
-
   color: #464646;
 `;
 
@@ -71,10 +64,7 @@ export const Cancel = styled.a`
   font-weight: 700;
   font-size: 16px;
   line-height: 140%;
-  /* or 22px */
-
   letter-spacing: 1px;
-
   color: #8c92c0;
 `;
 
