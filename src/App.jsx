@@ -7,7 +7,7 @@ function App() {
       <Card
         heading="This is a heading"
         text="This is a card Description, write something here to describe about the content of the card"
-        needButtons={true}
+        needButtons
       />
     </div>
   );
